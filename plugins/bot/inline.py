@@ -30,11 +30,11 @@ buttons = [
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("BOTS CHANNEL", url="https://t.me/KOT_BOTS"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/KOT_REPORTS"),
             ],
             [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("🤖MY FATHER🤖", url="https://t.me/KOT_FREE_DE_LA_HOYA_OFF"),
             ]
          ]
 
